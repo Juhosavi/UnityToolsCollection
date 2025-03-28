@@ -1,2 +1,10 @@
 # UnityToolsCollection
-Custom Unity tools for editor scripting and development workflow enhancements.
+
+A personal collection of custom Unity tools aimed at improving development workflows and editor usability.
+
+This repository will include small, reusable tools written in C# for Unity’s Editor.  
+These tools are part of my portfolio for demonstrating skills in tools programming.
+
+## Status
+
+🔧 Work in progress — more tools and documentation will be added soon.
