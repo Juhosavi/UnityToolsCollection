@@ -25,12 +25,6 @@ Exports all GameObjects with a specific tag into a JSON file.
 - JSON is saved to: `Assets/ExportedData/`
 - Access from: `Tools > Level Exporter`
 
-## How to Use
-
-1. Drop the folder into your Unity project under `Assets/`
-2. Open Unity
-3. Find all tools in the top menu under `Tools`
-
 
 Portfolio: [https://juhosavi.github.io](https://juhosavi.github.io)
 
