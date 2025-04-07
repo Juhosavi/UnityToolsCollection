@@ -1,6 +1,6 @@
 # Unity Editor Tools
 
-A small collection of Unity editor tools I created to learn editor scripting and support my Metacore internship application.
+A small collection of Unity editor tools I created to learn editor scripting.
 
 ## Contents
 
